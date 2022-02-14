@@ -1,4 +1,4 @@
-Copy and paste into your browser console to trigger a download of all images found in the markup.
+Copy and paste into your browser console to download all images on the page.
 
 ```js
 
